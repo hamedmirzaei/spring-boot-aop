@@ -1,4 +1,4 @@
-# Spring Boot + Spting AOP
+# Spring Boot + Spring AOP
 
 This is a simple example to show you how Spring AOP works with Spring Boot.
 
