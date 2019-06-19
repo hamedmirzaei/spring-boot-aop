@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>spring.boot.aop</groupId>
-    <artifactId>spring_boot_aop</artifactId>
+    <artifactId>spring-boot-aop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_boot_aop</name>
+    <name>spring-boot-aop</name>
     <description>Demo project for Spring Boot + AOP</description>
 
     <properties>
